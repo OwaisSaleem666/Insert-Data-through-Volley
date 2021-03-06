@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Insert Data through Volley</string>
+    <string name="enter_name">Enter Name</string>
+</resources>
